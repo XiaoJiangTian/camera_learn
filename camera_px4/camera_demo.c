@@ -90,5 +90,6 @@ int main(int argc, char *argv[])
     SnapdragonCameraClose(&g_snapdragon_camera);
 
     printf("Camera demo completed\n");
+    //yes
     return EXIT_SUCCESS;
 }
