@@ -1,5 +1,5 @@
 # PX4 Autopilot 高通芯片相机支持示例
-
+ctrl shift v
 本目录展示了 PX4 Autopilot 如何实现对高通芯片（如 Snapdragon Flight）相机模块的支持。
 
 ## 架构概述
